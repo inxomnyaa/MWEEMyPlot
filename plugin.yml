@@ -1,0 +1,14 @@
+---
+name: MWEEMyPlot
+main: xenialdan\MWEEMyPlot\Loader
+depend: [MagicWE2]
+version: 0.0.0
+api: [3.0.0]
+authors:
+- XenialDan
+description: MagicWE2 MyPlot Extension
+permissions:
+ mwee.myplot.extempt:
+   default: op
+   description: Allows edits that are bigger than a plot
+...
